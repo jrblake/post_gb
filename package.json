@@ -1,0 +1,16 @@
+{
+  "name": "populate_gb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geckoboard": "^1.1.0",
+    "mysql": "^2.13.0",
+    "request": "^2.79.0"
+  },
+  "description": ""
+}
