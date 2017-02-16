@@ -1,4 +1,5 @@
 const store = require('./store.js');
+//Fetch New Token
 var gb = require('geckoboard')('{{token}}');
 
 store.estConnection(function(datastore) {
