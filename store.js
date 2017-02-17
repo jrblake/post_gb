@@ -1,6 +1,6 @@
 var mysql = require('mysql');
 
-//Establish SSH Tunnel Prior to Execting App.js
+//Establish SSH Tunnel Prior to Executing App.js
 module.exports = {  
   estConnection: function(callback) {
     var datastore = [];
